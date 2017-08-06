@@ -1,15 +1,13 @@
-<div align = "center">
-    <p>
-        <a href="https://discord.gg/jj5FzF7/"> <img src = "https://discordapp.com/api/guilds/307623291479130132/embed.png" alt="Bot Support server" />Support Server</a>
-    </p>
-</div>
+#Chips website
+This is the website for Chips, a discord bot by WillyZ.
+Node.js/npm is required.
 
+###Support
+Having issues? Want to contact us? Feel free to join our [support server](https://discord.gg/jj5FzF7/).  
 
-# Chips
-Chips bot website
-mmm...Chips
-Node/npm is required c:
+![Members online](https://discordapp.com/api/guilds/307623291479130132/embed.png)
 
-## This project is licensed under "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)" https://creativecommons.org/licenses/by-nc-nd/4.0/.
+###License
+![alt text](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. Read more about the license [here](http://creativecommons.org/licenses/by-nc-nd/4.0/).
